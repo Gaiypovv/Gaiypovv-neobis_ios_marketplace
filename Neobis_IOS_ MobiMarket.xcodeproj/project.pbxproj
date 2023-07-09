@@ -13,6 +13,7 @@
 		7F582AB42A5B27A300E74C34 /* CardItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F582AAF2A5B27A300E74C34 /* CardItem.swift */; };
 		7F582AB52A5B27A300E74C34 /* TokenModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F582AB02A5B27A300E74C34 /* TokenModel.swift */; };
 		7F582AB62A5B27A300E74C34 /* UserCreateModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F582AB12A5B27A300E74C34 /* UserCreateModel.swift */; };
+		7F582ABB2A5B2FC800E74C34 /* FavouriteProductModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F582ABA2A5B2FC800E74C34 /* FavouriteProductModel.swift */; };
 		F67E3D4A2A5170DD00693B0F /* SpashViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6650082A405F6700A36DF4 /* SpashViewController.swift */; };
 		F67E3D4B2A5170DD00693B0F /* Data+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C315D5E2A483710000A41F7 /* Data+Extensions.swift */; };
 		F67E3D4C2A5170DD00693B0F /* FinishRegViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C66500B2A40643000A36DF4 /* FinishRegViewController.swift */; };
@@ -138,6 +139,7 @@
 		7F582AAF2A5B27A300E74C34 /* CardItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardItem.swift; sourceTree = "<group>"; };
 		7F582AB02A5B27A300E74C34 /* TokenModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TokenModel.swift; sourceTree = "<group>"; };
 		7F582AB12A5B27A300E74C34 /* UserCreateModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserCreateModel.swift; sourceTree = "<group>"; };
+		7F582ABA2A5B2FC800E74C34 /* FavouriteProductModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouriteProductModel.swift; sourceTree = "<group>"; };
 		F67E3D8C2A5170DD00693B0F /* Neobis_IOS_ MobiMarket.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Neobis_IOS_ MobiMarket.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -354,6 +356,7 @@
 				7F582AB02A5B27A300E74C34 /* TokenModel.swift */,
 				7F582AB12A5B27A300E74C34 /* UserCreateModel.swift */,
 				7F582AAD2A5B27A300E74C34 /* UserProfile.swift */,
+				7F582ABA2A5B2FC800E74C34 /* FavouriteProductModel.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -562,6 +565,7 @@
 				F67E3D6C2A5170DD00693B0F /* OTPView.swift in Sources */,
 				F67E3D6D2A5170DD00693B0F /* LikedViewController.swift in Sources */,
 				F67E3D6E2A5170DD00693B0F /* CustomTabBarController.swift in Sources */,
+				7F582ABB2A5B2FC800E74C34 /* FavouriteProductModel.swift in Sources */,
 				7F582AB52A5B27A300E74C34 /* TokenModel.swift in Sources */,
 				7F582AB42A5B27A300E74C34 /* CardItem.swift in Sources */,
 				F67E3D6F2A5170DD00693B0F /* LoginViewModel.swift in Sources */,
