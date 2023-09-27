@@ -41,6 +41,12 @@
  <img src="https://imageup.ru/img42/4546413/screenshot-2023-09-27-at-235249.jpg" alt="Описание изображения" width="300" height="600">
  <img src="https://imageup.ru/img23/4546414/screenshot-2023-09-27-at-235311.jpg" alt="Описание изображения" width="300" height="600">
  <img src="https://imageup.ru/img194/4546416/screenshot-2023-09-27-at-235320.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img121/4546462/screenshot-2023-09-28-at-001817.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img71/4546463/screenshot-2023-09-28-at-001823.png" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img40/4546465/screenshot-2023-09-28-at-001831.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img296/4546467/screenshot-2023-09-28-at-001849.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img196/4546468/screenshot-2023-09-28-at-001900.jpg" alt="Описание изображения" width="300" height="600">
+ 
 
  
  ## Profile view
