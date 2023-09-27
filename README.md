@@ -28,12 +28,13 @@
  <img src="https://imageup.ru/img249/4546395/screenshot-2023-09-27-at-234157.jpg" alt="Описание изображения" width="300" height="600">
  <img src="https://imageup.ru/img134/4546397/screenshot-2023-09-27-at-234210.jpg" alt="Описание изображения" width="300" height="600">
 
- 
- <img src="" alt="Описание изображения" width="300" height="600">
+ ## Password recovery
+ <img src="https://imageup.ru/img280/4546400/screenshot-2023-09-27-at-234753.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img81/4546402/screenshot-2023-09-27-at-234802.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img156/4546403/screenshot-2023-09-27-at-234812.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img200/4546404/screenshot-2023-09-27-at-234821.jpg" alt="Описание изображения" width="300" height="600">
 
- <img src="" alt="Описание изображения" width="300" height="600">
- <img src="" alt="Описание изображения" width="300" height="600">
- <img src="" alt="Описание изображения" width="300" height="600">
+ 
  <img src="" alt="Описание изображения" width="300" height="600">
  <img src="" alt="Описание изображения" width="300" height="600">
  <img src="" alt="Описание изображения" width="300" height="600">
