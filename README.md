@@ -68,11 +68,6 @@
  <img src="https://imageup.ru/img187/4546440/screenshot-2023-09-28-at-000620.jpg" alt="Описание изображения" width="300" height="600">
  <img src="https://imageup.ru/img144/4546441/screenshot-2023-09-28-at-000629.jpg" alt="Описание изображения" width="300" height="600">
  <img src="https://imageup.ru/img25/4546443/screenshot-2023-09-28-at-000639.jpg" alt="Описание изображения" width="300" height="600">
-
-
-
- 
- <img src="" alt="Описание изображения" width="300" height="600">
  
 </div> 
 
