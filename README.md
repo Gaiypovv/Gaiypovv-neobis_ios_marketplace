@@ -4,9 +4,8 @@
 <img src="https://imageup.ru/img209/4546299/screenshot-2023-09-27-at-224000.jpg" alt="Описание изображения" width="300" height="600">
 </div>
 <div>
-  <img src="https://imageup.ru/img31/4546288/screenshot-2023-09-27-at-223946.jpg" alt="Описание изображения 1" width="300" height="200">
-  <img src="https://другая-ссылка.com/изображение2.jpg" alt="Описание изображения 2" width="300" height="200">
-  <img src="https://еще-одна-ссылка.com/изображение3.png" alt="Описание изображения 3" width="300" height="200">
+ <img src="https://imageup.ru/img31/4546288/screenshot-2023-09-27-at-223946.jpg" alt="Описание изображения" width="300" height="600">
+<img src="https://imageup.ru/img209/4546299/screenshot-2023-09-27-at-224000.jpg" alt="Описание изображения" width="300" height="600">
 </div>
 
 
