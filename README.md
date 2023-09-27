@@ -27,6 +27,12 @@
  <img src="https://imageup.ru/img113/4546392/screenshot-2023-09-27-at-234144.jpg" alt="Описание изображения" width="300" height="600">
  <img src="https://imageup.ru/img249/4546395/screenshot-2023-09-27-at-234157.jpg" alt="Описание изображения" width="300" height="600">
  <img src="https://imageup.ru/img134/4546397/screenshot-2023-09-27-at-234210.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img38/4546407/screenshot-2023-09-27-at-235058.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img131/4546411/screenshot-2023-09-27-at-235242.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img42/4546413/screenshot-2023-09-27-at-235249.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img23/4546414/screenshot-2023-09-27-at-235311.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img194/4546416/screenshot-2023-09-27-at-235320.jpg" alt="Описание изображения" width="300" height="600">
+
 
  ## Password recovery
  <img src="https://imageup.ru/img280/4546400/screenshot-2023-09-27-at-234753.jpg" alt="Описание изображения" width="300" height="600">
@@ -34,8 +40,10 @@
  <img src="https://imageup.ru/img156/4546403/screenshot-2023-09-27-at-234812.jpg" alt="Описание изображения" width="300" height="600">
  <img src="https://imageup.ru/img200/4546404/screenshot-2023-09-27-at-234821.jpg" alt="Описание изображения" width="300" height="600">
 
- 
- <img src="" alt="Описание изображения" width="300" height="600">
+ ## Main screen
+ <img src="https://imageup.ru/img38/4546407/screenshot-2023-09-27-at-235058.jpg" alt="Описание изображения" width="300" height="600">
+
+ ## Profile view
  <img src="" alt="Описание изображения" width="300" height="600">
  <img src="" alt="Описание изображения" width="300" height="600">
  <img src="" alt="Описание изображения" width="300" height="600">
