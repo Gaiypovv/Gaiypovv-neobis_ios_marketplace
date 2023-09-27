@@ -12,6 +12,7 @@
  ### Login
  <img src="https://imageup.ru/img3/4546366/screenshot-2023-09-27-at-233008.png" alt="Описание изображения" width="300" height="600">
  <img src="https://imageup.ru/img94/4546367/screenshot-2023-09-27-at-233017.png" alt="Описание изображения" width="300" height="600">
+ 
  ### Create password
  <img src="https://imageup.ru/img98/4546373/screenshot-2023-09-27-at-233358.png" alt="Описание изображения" width="300" height="600">
  <img src="https://imageup.ru/img22/4546374/screenshot-2023-09-27-at-233408.png" alt="Описание изображения" width="300" height="600">
