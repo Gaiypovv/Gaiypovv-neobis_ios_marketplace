@@ -1,5 +1,5 @@
 # neobis_ios_marketplace
-<img src="https://i.ibb.co/CVbTznn/image1.png" alt="Image 1" width="400" height="300">
+<img src="https://i.ibb.co/CVbTznn/image1.jpd" alt="Image 1" width="400" height="300">
 
 Description of Image 1
 
