@@ -44,12 +44,18 @@
 
  
  ## Profile view
- <img src="" alt="Описание изображения" width="300" height="600">
- <img src="" alt="Описание изображения" width="300" height="600">
- <img src="" alt="Описание изображения" width="300" height="600">
- <img src="" alt="Описание изображения" width="300" height="600">
- 
+ <img src="https://imageup.ru/img164/4546432/screenshot-2023-09-28-at-000544.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img26/4546434/screenshot-2023-09-28-at-000553.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img246/4546436/screenshot-2023-09-28-at-000602.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img44/4546439/screenshot-2023-09-28-at-000923.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img187/4546440/screenshot-2023-09-28-at-000620.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img144/4546441/screenshot-2023-09-28-at-000629.jpg" alt="Описание изображения" width="300" height="600">
+ <img src="https://imageup.ru/img25/4546443/screenshot-2023-09-28-at-000639.jpg" alt="Описание изображения" width="300" height="600">
 
+
+
+ 
+ <img src="" alt="Описание изображения" width="300" height="600">
  
 </div> 
 
